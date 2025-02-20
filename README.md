@@ -9,3 +9,6 @@ Wireframes One
 
 Wireframes Two
 ![wireframe two](https://github.com/user-attachments/assets/5154a277-c520-4d75-86d7-9aee1e467253)
+
+Parental Controls
+![image06](https://github.com/user-attachments/assets/3f5e4330-8a8c-474e-81eb-2af833a85e59)
